@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "SyncFold": {
+      "commandName": "Project",
+      "commandLineArgs": "\"D:\\TaskTest\\Source\" \"D:\\TaskTest\\Replica\" \"10\" \"D:\\TaskTest\\LogFile.txt\""
+    }
+  }
+}
